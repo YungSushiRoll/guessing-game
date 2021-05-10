@@ -1,0 +1,8 @@
+{
+  "name": "GuesingGame",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "29177bde"
+}
